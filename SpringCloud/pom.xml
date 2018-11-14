@@ -20,5 +20,6 @@
     <module>config-server</module>
     <module>eureka-server</module>
     <module>eureka-client</module>
+    <module>service-ribbon</module>
   </modules>
 </project>
