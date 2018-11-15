@@ -20,7 +20,8 @@ public class EurekaClientApplication {
 	String port;
 
 	@RequestMapping("/")
-	public String home() {
+	public String home() throws Exception {
+//		throw new Exception();
 		return "hello world from port " + port;
 	}
 }
