@@ -22,5 +22,6 @@
     <module>eureka-client</module>
     <module>feign-client</module>
     <module>service-ribbon</module>
+    <module>zuul-service</module>
   </modules>
 </project>
